@@ -34,8 +34,7 @@ Experimentos para o laboratório de física
 * [A study of strain and deformation measurement using the Arduino microcontroller and strain gauges devices](https://www.scielo.br/j/rbef/a/NVcLkJ4zwNZDCr64zNXPLHS/?lang=en)
 
 
-
-
-
-*
+# Projetos
+* Multímetro digital acessível
+ Procurar projetos open hardware (já dá pra fazer um dispositivo para função: amperímetro, voltímetro, ohmímetro
 
