@@ -39,5 +39,9 @@ Experimentos para o laboratório de física
 
 * Multímetro digital acessível
 * Fonte regulável de tensão
+* https://wordpress.codewrite.co.uk/pic/2014/01/25/capacitance-meter-mk-ii/
+* http://adaec.icmc.usp.br/wiki/gravacao-atmega328
+* https://www.scielo.br/j/rbef/a/FvVrSsG7nDpGWgTJNyzdsNq/?lang=pt#
+* https://www.embarcados.com.br/lendo-e-escrevendo-nos-pinos-do-arduino/
 
 
