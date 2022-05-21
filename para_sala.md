@@ -10,7 +10,11 @@ e placar também
  participante vendado deve tomar baseada em 
 comandos dados por um colega de time. 
 (Para aulas de algoritmo)
-* sensor para detectar o barulho do auditório 
+* sensor para detectar o barulho do auditório. 
+Cabo de guerra no grito, dois ou mais
+ piezos pra servir de controles de entrada.
+Ex.: jogo de aparar - caem as capitais e o 
+jogador tem que aparar a correta. 
 * sensores de vibração como inputs de um jogo:
 letras, números, direções, etc. Pode ser
  com os pés ou mãos. 
@@ -19,5 +23,3 @@ letras, números, direções, etc. Pode ser
 primeiro.
 * construir sensor de movimento a partir
 de vários ldr.
-
-
