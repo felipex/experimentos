@@ -45,3 +45,9 @@ Experimentos para o laboratório de física
 * https://www.embarcados.com.br/lendo-e-escrevendo-nos-pinos-do-arduino/
 
 
+# Referências
+
+* https://mundoprojetado.com.br/voltimetro-amperimetro-e-ohmimetro-c-arduino/
+* http://dspace.sti.ufcg.edu.br:8080/jspui/bitstream/riufcg/20574/1/L%C3%89LIA%20VAN%20DER%20LINDEN%20-%20RELAT%C3%93RIO%20DE%20EST%C3%81GIO%20ENG.%20EL%C3%89TRICA%202018.pdf
+* https://portal.vidadesilicio.com.br/eletrica-e-eletronica/
+
