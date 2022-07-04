@@ -61,4 +61,8 @@ https://search.scielo.org/?fb=&q=simula%C3%A7%C3%A3o&lang=pt&count=15&from=61&ou
 * https://mundoprojetado.com.br/voltimetro-amperimetro-e-ohmimetro-c-arduino/
 * http://dspace.sti.ufcg.edu.br:8080/jspui/bitstream/riufcg/20574/1/L%C3%89LIA%20VAN%20DER%20LINDEN%20-%20RELAT%C3%93RIO%20DE%20EST%C3%81GIO%20ENG.%20EL%C3%89TRICA%202018.pdf
 * https://portal.vidadesilicio.com.br/eletrica-e-eletronica/
-
+* (MODELAGEM MATEMÁTICA NO ENSINO DE FÍSICA: EFEITOS NA SOFISTICAÇÃO ARGUMENTATIVA)[https://www.rfbeditora.com/ebooks-2020/ebook-8]
+* (GEOMETRIA FRACTAL & ATIVIDADES)[https://www.rfbeditora.com/ebooks-2020/ebook-15]
+* (ASTRONOMIA PARA ALUNOS CEGOS)[https://www.rfbeditora.com/ebooks-2021/astronomia-para-alunos-cegos]
+* (APRENDIZAGEM SIGNIFICATIVA ATRAVÉS DE JOGOS: PROPOSTA DESAFIADORA PARA A APRENDIZAGEM DAS MATEMÁTICAS NO ENSINO FUNDAMENTAL EM MORADA NOVA - CEARÁ)[https://www.rfbeditora.com/ebooks-2021/ebook-25]
+* (O COMPUTADOR INTERATIVO NO ENSINO DE MATEMÁTICA E SUAS IMPLICAÇÕES)[https://www.rfbeditora.com/ebooks-2020/ebook-10]
