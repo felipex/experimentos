@@ -42,7 +42,7 @@ Experimentos para o laboratório de física
 * https://www.scielo.br/j/rbef/a/FvVrSsG7nDpGWgTJNyzdsNq/?lang=pt#
 * https://www.embarcados.com.br/lendo-e-escrevendo-nos-pinos-do-arduino/
 
-# Experimentos Virtuais/Simulações
+# Experimentos Virtuais/Simulações 
 
 * [O uso do python na construção de simuladores computacionais: proposições e potencialidades para o ensino de física](https://periodicos.ufsc.br/index.php/fisica/article/view/82206/48530)
 * [Sistema de Realidade Virtual para Simulação e Visualização de Cargas Pontuais Discretas e seu Camp o Elétrico](https://www.scielo.br/j/rbef/a/8Xdzs7hN7pBvysh8bQW6tXy/?lang=pt&format=pdf)
@@ -55,12 +55,13 @@ https://redib.org
 
 https://search.scielo.org/?fb=&q=simula%C3%A7%C3%A3o&lang=pt&count=15&from=61&output=site&sort=&format=summary&page=5&where=&filter%5Bjournal_title%5D%5B%5D=Revista+Brasileira+de+Ensino+de+F%C3%ADsica
 
-# Resumos e Mapas
+# Resumos e Mapas (no Jupyter)
 
 * Modelo padrão
 * Neutrinos
 * Formação de elementos químicos
 * Evolução de uma estrela
+* Fractais
 
 # Referências
 
