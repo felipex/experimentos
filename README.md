@@ -35,7 +35,6 @@ Experimentos para o laboratório de física
 # Projetos 
 (Procurar projetos open hardware. Já dá pra fazer um dispositivo para função: amperímetro, voltímetro, ohmímetro, fonte regulável de alimentação)
 
-* Oscilador para o estudo de ondas (não vi nenhum projeto ainda)
 * Multímetro digital acessível
 * Fonte regulável de tensão
 * https://wordpress.codewrite.co.uk/pic/2014/01/25/capacitance-meter-mk-ii/
@@ -66,9 +65,11 @@ https://search.scielo.org/?fb=&q=simula%C3%A7%C3%A3o&lang=pt&count=15&from=61&ou
 
 # Estudos (dirigidos)
 * Estudo do CI 555 e suas possibilidades
-* Estudo de engrenagens, polias e caixas de redução de motor
+* Estudo de engrenagens, polias e caixas de redução de motor - geradores, bateria gravitacional(?)
 * Transmissão
-
+* Oscilador para o estudo de ondas (não vi nenhum projeto ainda)
+* Bobinas, indutores 
+* Ar comprimido - Fornecer força para experimentos
 
 # Referências
 
