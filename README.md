@@ -83,3 +83,4 @@ https://search.scielo.org/?fb=&q=simula%C3%A7%C3%A3o&lang=pt&count=15&from=61&ou
 * (O COMPUTADOR INTERATIVO NO ENSINO DE MATEMÁTICA E SUAS IMPLICAÇÕES)[https://www.rfbeditora.com/ebooks-2020/ebook-10]
 * https://evolucaodosconceitos.wixsite.com/historia-da-ciencia/textos (fonte roteiros para as HQs?)
 * https://liquensuerj.wixsite.com/liquens/producoes
+* https://www.physicsclassroom.com/Physics-Interactives/
