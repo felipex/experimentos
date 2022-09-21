@@ -30,7 +30,7 @@ Experimentos para o laboratório de física
 * [Proposta experimental para análise das variáveis de estado dos gases com Arduino](https://www.scielo.br/j/rbef/a/qVfLtSY4TNQRfyWBFWTvgSm/?lang=pt)
 * [Venturino: análise da variação de pressão em um tubo de Venturi utilizando Arduino e sensor de pressão](https://www.scielo.br/j/rbef/a/ZsbyCkCxLnNNs3FhcSSLHLF/?lang=pt)
 * [A study of strain and deformation measurement using the Arduino microcontroller and strain gauges devices](https://www.scielo.br/j/rbef/a/NVcLkJ4zwNZDCr64zNXPLHS/?lang=en)
-
+* [Aprimorando e validando um fotogate de baixo custo](https://www.scielo.br/j/rbef/a/ZRSyQfFz6L7Kqc3D4JDqzPj/?format=pdf&lang=pt)
 
 # Projetos 
 (Procurar projetos open hardware. Já dá pra fazer um dispositivo para função: amperímetro, voltímetro, ohmímetro, fonte regulável de alimentação)
